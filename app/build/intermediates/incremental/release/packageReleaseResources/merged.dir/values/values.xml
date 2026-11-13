@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_orange">#FF9900</color>
+    <color name="bg_dark">#080D1A</color>
+    <color name="bg_light">#F8FAFC</color>
+    <color name="primary_navy">#001845</color>
+    <string name="app_name">VeloJot</string>
+    <style name="Theme.VeloJot" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
